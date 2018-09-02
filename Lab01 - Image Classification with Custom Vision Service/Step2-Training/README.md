@@ -23,11 +23,14 @@ https://customvision.ai/projects
 
 5. Repeat for images in `Cultivated` and `Developed` subfolder, using the respective tags.
 
-## Train the classifier
+## Train and evaluate the first iteration of the model
 1. To train the classifier, click on the *Train* button.
 
 ![Train](images/img6.PNG)
 
+2. After training is completed you will see the screen with the evaluation metrics. The instructor will explain who to interpret the metrics.
+
+![Evaluate](images/img7.PNG)
 
 
 ## Test your model

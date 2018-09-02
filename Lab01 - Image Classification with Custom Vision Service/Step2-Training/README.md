@@ -1,4 +1,4 @@
-# Train
+# Model training 
 In this step you will train, evaluate, and fine tune a custom image classification model using Custom Vision Service Web GUI. It is also possible to script the modelling workflow using Custom Vision Service SDK. Refer to the below link for more information:
 
 https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/python-tutorial

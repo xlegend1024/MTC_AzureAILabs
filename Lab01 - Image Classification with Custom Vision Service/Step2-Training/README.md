@@ -56,7 +56,7 @@ Recall that the images tagged as *Developed* had the lowest **Precision** metric
 
 3. You will also add additional images to the *Developed* class. You can find them in `<MTC_AzureAILabs/Datasets/SmallAerial/train/Developed-SecondBatch`. Select and label all images from that folder.
 
-4. Click on **Train** button to retrain the model. You will notice the second iteration of the model after the training is completed. Your instructor will explain the concept of than iteration in more detail. 
+4. Click on **Train** button to retrain the model. You will notice the second iteration of the model after the training is completed. Your instructor will explain the concept of the iteration in more detail. 
 
 5. Review the new evaluation metrics. Both **Precision** and **Recall** should be higher. Note that your numbers may be slightly different than ours.
 

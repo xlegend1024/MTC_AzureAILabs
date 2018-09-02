@@ -1,6 +1,6 @@
 # Environment setup
 
-The goal of this lab is to prepare the environment that will be utilized during the workshop. 
+In this step you will prepare the lab environment, including Custom Vision Service project and Custom Vision Service SDK. 
 
 ## Provision Cognitive Services
 

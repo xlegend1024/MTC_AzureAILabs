@@ -14,11 +14,14 @@ https://customvision.ai/projects
 
 ![Select the project](images/img4.PNG)
 
-3. To add the first set of images to your project, use the Add images button and then select Browse local files. Navigate to `<MTC_AzureAILabs root/Datasets/AerialSmall/train/Barren`. Select all images
+3. To add the first set of images to your project, use the *Add* images button. Navigate to `<MTC_AzureAILabs root/Datasets/AerialSmall/train/Barren` and select and add all images.
+
+![Add images](images/img5.PNG)
+
 
 2. To set the tag, enter text in the My Tags field and then use the + button. 
 
-![Add images](images/tag.JPG)
+
 
 3. To upload another set of images, return to step 1. For example, if you want to distinguish between knots and strips, upload and tag images of strips.
 

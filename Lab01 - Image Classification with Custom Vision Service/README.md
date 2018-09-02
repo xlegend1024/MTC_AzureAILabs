@@ -1,6 +1,8 @@
 # Image Classification with Custom Vision Service
 In this lab you will train, test, and deploy a custom image classification model using Microsoft Cognitive Services Custom Vision Service. 
 
+The lab is designed as an instructor guided hands-on exercise. The most efficient way to go through the lab is to follow the instructor. In addition to walking you through the lab's steps, she will explain key concepts and dive into technical details. Don't hesitate to ask questions !
+
 ## Prerequisites
 
 ### Skills

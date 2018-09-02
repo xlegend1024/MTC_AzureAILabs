@@ -40,5 +40,14 @@ https://customvision.ai/projects
 ![TQuick est](images/img8.PNG)
 
 
+## Improve the model
+You can apply many strategies to improve performance of your model. Your instructor will elaborate on the most common techniques. In the following steps you will apply two approaches. First you will review your training data looking for potentially mislabeled instances. Second, you will add more samples of the class for which the classifier did not perform well.
+
+1. Browse through the images labeled as *Developed*. You will notice some images with questionable tagging.
+
+![Mislabeled](images/img9.PNG)
+![Mislabeled](images/img10.PNG)
+
+
 
 

@@ -18,7 +18,7 @@ https://customvision.ai
 
 ![Step 2](images/img2.PNG)
 
-5. Configure the remaining parameters. Make sure to select *Classification* for *Project Type*, *Multiclass* for *Classification Type*, and *General* for *Domain*.
+5. Configure the remaining parameters. Make sure to select *Classification* for *Project Types*, *Multiclass* for *Classification Types*, and *General* for *Domains*.
 
 ![Step 3](images/img3.PNG)
 

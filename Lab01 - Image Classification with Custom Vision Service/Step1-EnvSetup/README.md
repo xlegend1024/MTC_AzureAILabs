@@ -12,13 +12,13 @@ https://customvision.ai
 
 ![Step 1](images/img1.PNG)
 
-3. Click on *New Project* to add a new project
+3. Click on *New Project* to add a new project and set the project's name and description
 
-![Step 2](images/img2.PNG)
+4. Configure a new resource group for your project's resources. 
 
-4. Set the project's name and description.
+![Step 2][images/img2.PNG)
 
-5. Create a new resource group for your project's resources.
+5. Configure the remaining parameters. Make sure to select *Image Classification*, *Multiclass*, and *General* domain options.
 
 ![Step 3][images/img3.PNG)
 

@@ -41,13 +41,28 @@ https://customvision.ai/projects
 
 
 ## Improve the model
-You can apply many strategies to improve performance of your model. Your instructor will elaborate on the most common techniques. In the following steps you will apply two approaches. First you will review your training data looking for potentially mislabeled instances. Second, you will add more samples of the class for which the classifier did not perform well.
+You can apply many strategies to improve performance of your model. Your instructor will elaborate on the most common techniques. 
+
+In the following steps you will apply two approaches. First you will review your training data looking for potentially mislabeled instances. Second, you will add more samples of the class for which the classifier did not perform well. 
+
+Recall that the images tagged as *Developed* had the lowest **Precision** metrics. As such we will focus on improving the performace of our classifier on this class first.
 
 1. Browse through the images labeled as *Developed*. You will notice some images with questionable tagging.
 
 ![Mislabeled](images/img9.PNG)
 ![Mislabeled](images/img10.PNG)
 
+2. You can re-label the image(s) by selecting it and clicking on the **Tag images** button. Re-label the images in question to the class that in your opinion is the right label.
 
+3. You will also add additional images to the *Developed* class. You can find them in `<MTC_AzureAILabs/Datasets/SmallAerial/train/Developed-SecondBatch`. Select and label all images from that folder.
+
+4. Click on **Train** button to retrain the model. You will notice the second iteration of the model after the training is completed. Your instructor will explain the concept of than iteration in more detail. 
+
+5. Review the new evaluation metrics. Both **Precision** and **Recall** should be higher. Note that your numbers may be slightly different than ours.
+
+![Second iteration](images/img11.PNG)
+
+
+Congratulations. You now have a pretty accurate custom classifier.
 
 

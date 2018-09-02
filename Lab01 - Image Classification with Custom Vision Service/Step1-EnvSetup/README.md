@@ -4,13 +4,15 @@ In this step you will prepare the lab environment, including Custom Vision Servi
 
 ## Create Custom Vision Service Project
 
-1. Navigate to Custom Vision portal at
+1. Navigate to Custom Vision portal at:
 
 https://customvision.ai
 
-6. Login using the same account you used to login to Azure Portal. You should see the following screen
+2. Login using your Azure account. You should see the screen similar to the one below:
 
 ![Step 1](images/img1.PNG)
+
+3. Click 
 
 ## Install Custom Vision SDK
 As indicated in the workshop prerequisities you should have Anaconda for Python 3 pre-installed. If you don't, know is the time.

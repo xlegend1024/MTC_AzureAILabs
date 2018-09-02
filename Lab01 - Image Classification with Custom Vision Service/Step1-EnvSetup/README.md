@@ -4,7 +4,7 @@ In this step you will prepare the lab environment, including Custom Vision Servi
 
 ## Create Custom Vision Service Project
 
-1. Navigate to Custom Vision portal at:
+1. Navigate to Custom Vision Service web GUI at:
 
 https://customvision.ai
 
@@ -25,8 +25,25 @@ https://customvision.ai
 
 
 ## Install Custom Vision SDK
-As indicated in the workshop prerequisities you should have Anaconda for Python 3 pre-installed. If you don't, know is the time.
-If you prefer you can create `conda` environment to run the SDK in a sandbox.
+As indicated in the lab's prerequisities, you should have Anaconda for Python 3 pre-installed. If you don't, now is the time.
+You can install the SDK in the default 'conda' environment or if you prefer you can create a new `conda` environment. 
+
+If you prefer to create the new environment follow this steps:
+On MacOS/Linux:
+
+```
+conda create -n <YourEnvName>
+source activate <YourEnvName>
+```
+
+On Windows:
+
+```
+conda create -n <YourEnvName>
+activate <YourEnvName>
+```
+
+Ton install Custom Vision SDK
 
 ```
 pip install azure-cognitiveservices-vision-customvision

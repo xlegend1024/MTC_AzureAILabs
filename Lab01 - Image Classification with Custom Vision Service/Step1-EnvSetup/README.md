@@ -51,14 +51,15 @@ pip install azure-cognitiveservices-vision-customvision
 ```
 
 ## Clone the workshop's repo
-Clone the workshop's repo in your preferred location
+Clone the AzureAILabs repo in your preferred location
 ```
-git clone https://github.com/jarokaz/CognitiveServicesWorkshop.git
+git clone https://github.com/Microsoft/MTC_AzureAILabs.git
 ```
 
 ## Verify that you can start and connect to Jupyter Lab 
-Start Jupyter Lab from the root folder of the workshop's repo
+Start Jupyter Lab from the root folder of the lab 
 ```
+cd <MTC_AzureAILabs root>/Lab01 - Image Classification with Custom Vision Service
 jupyter lab
 ```
 Connect to Jupyter Lab

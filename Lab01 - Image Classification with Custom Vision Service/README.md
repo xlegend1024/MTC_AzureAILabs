@@ -5,7 +5,11 @@ The lab is designed as an instructor guided hands-on exercise. The most efficien
 
 ## Scenario
 
-You will train a custom image classification model to automatically classify aerial land images into three classes: *Barren*, *Developed*, *Cultivated*. Here are a few examples:
+You will train a custom image classification model to automatically classify the type of land shown in aerial images of 224-meter x 224-meter plots. Land use classification models can be used to track urbanization, deforestation, loss of wetlands, and other major environmental trends using periodically collected aerial imagery. The images used in this lab are based on imagery from the U.S. National Land Cover Database. U.S. National Land Cover Database defines six primary classes of land use: *Developed*, *Barren*, *Forested*, *Grassland*, *Shrub*, *Cultivated*. For the sake of simplicity, in this lab we will train a classifier to recognize three classes: *Barren*, *Developed*, *Cultivated*.  Example images in each land use class are shown here:
+
+![Developed](../Datasets/SmallAerial/train/Developed/ortho_1-1_hn_s_ca037_2016_1_46729.png)
+
+
 
 
 ## Prerequisites

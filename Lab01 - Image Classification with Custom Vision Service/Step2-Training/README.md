@@ -19,16 +19,16 @@ https://customvision.ai/projects
 ![Add images](images/img5.PNG)
 
 
-2. To set the tag, enter text in the My Tags field and then use the + button. 
+4. To set the tag, enter *Barren* in the My Tags field. 
+
+5. Repeat for images in `Cultivated` and `Developed` subfolder, using the respective tags.
+
+## Train the classifier
+1. To train the classifier, click on the *Train* button.
+
+![Train](images/img6.PNG)
 
 
-
-3. To upload another set of images, return to step 1. For example, if you want to distinguish between knots and strips, upload and tag images of strips.
-
-## Train and evaluate the classifier
-1. To train the classifier, select the Train button.
-![Train](images/train02.png)
-![Train](images/train03.PNG)
 
 ## Test your model
 1. From the Custom Vision web page, select your project. Select Quick Test on the right of the top menu bar. This action opens a window labeled Quick Test.

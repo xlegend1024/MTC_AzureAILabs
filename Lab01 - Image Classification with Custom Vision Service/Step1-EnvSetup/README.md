@@ -24,7 +24,7 @@ https://customvision.ai
 
 
 
-## Install Custom Vision SDK
+## Install Custom Vision Service SDK
 As indicated in the lab's prerequisities, you should have Anaconda for Python 3 pre-installed. If you don't, now is the time.
 You can install the SDK in the default 'conda' environment or if you prefer you can create a new `conda` environment. 
 

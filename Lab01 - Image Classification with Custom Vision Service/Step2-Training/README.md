@@ -14,34 +14,30 @@ https://customvision.ai/projects
 
 ![Select the project](images/img4.PNG)
 
-3. To add the first set of images to your project, use the *Add* images button. Navigate to `<MTC_AzureAILabs root/Datasets/AerialSmall/train/Barren` and select and add all images.
+3. To add the first set of images to your project, use the **Add images** button. Navigate to `<MTC_AzureAILabs root/Datasets/AerialSmall/train/Barren` and select and add all images.
 
 ![Add images](images/img5.PNG)
 
 
-4. To set the tag, enter *Barren* in the My Tags field. 
+4. To set the tag, enter *Barren* in the **My Tags** field. 
 
-5. Repeat for images in `Cultivated` and `Developed` subfolder, using the respective tags.
+5. Repeat for images in `Cultivated` and `Developed` subfolders, using the respective tags.
 
 ## Train and evaluate the first iteration of the model
-1. To train the classifier, click on the *Train* button.
+1. To train the classifier, click on the **Train** button.
 
 ![Train](images/img6.PNG)
 
-2. After training is completed you will see the screen with the evaluation metrics. The instructor will explain who to interpret the metrics.
+2. After training is completed you will see the screen with the evaluation metrics. Your instructor will explain how to interpret the metrics.
 
 ![Evaluate](images/img7.PNG)
 
 
 ## Test your model
-1. From the Custom Vision web page, select your project. Select Quick Test on the right of the top menu bar. This action opens a window labeled Quick Test.
-2. In the Quick Test window, click in the Submit Image field and enter the URL of the image you want to use for your test. If you want to use a locally stored image instead, click the Browse local files button and select a local image file.
-![Test](images/test1.PNG)
-3. Repeat the test for another image
-![Test](images/test2.PNG)
+1. You can perform a quick test of the model on unseen data by clicking the **Quick Test** button located to the right of the **Train**. This action opens a window labeled **Quick Test**.
+2. In the **Quick Test** window, click in the Submit Image field and enter the URL of the image you want to use for your test. If you want to use a locally stored image instead, click the Browse local files button and select a local image file. The testing images for our lab can be found in `<MTC_AzureAILabs root>/Datasets/AerialSmall/test`
 
-## Use SDK to programmatically train and evaluate models
-
+![TQuick est](images/img8.PNG)
 
 
 

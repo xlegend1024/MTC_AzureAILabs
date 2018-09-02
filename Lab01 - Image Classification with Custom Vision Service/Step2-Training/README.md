@@ -1,19 +1,20 @@
-# Train a custom classifier
-## Create a new project
-To create a new project, use the following steps:
-1. In your web browser, navigate to [Custom Vision web page](https://customvision.ai). 
-Select New Project. For your first project, you are asked to agree to the Terms of Service. 
-Select the check box, and then select the I agree button. The New project dialog box appears.
+# Train
+In this step you will train, evaluate, and fine tune a custom image classification model using Custom Vision Service Web GUI. It is also possible to script the modelling workflow using Custom Vision Service SDK. Refer to the below link for more information:
 
-![New project](images/new-project.png)
+https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/python-tutorial
 
-3. Enter a name and a description for the project. You can then select one of the available domains. 
-Each domain optimizes the classifier for specific types of images. In our lab, we are going to use the **Generic** domain
-4. Select a Resource Group. The Resource Group dropdown shows you all of your Azure Resource Groups that include a Custom Vision Service Resource. Use the Resource Group that was provision during the environment set up.
-5. To create the project, select **Create Project**.
+
 
 ## Upload and tag training images
-1. To add images to the classifier, use the Add images button and then select Browse local files. Select Open to move to tagging.
+1. Navigate to the project section of Custom Vision Service Web GUI.
+
+https://customvision.ai/projects
+
+2. Click on the project you created in the lab set up step.
+
+![Select the project](images/img4.PNG)
+
+3. To add the first set of images to your project, use the Add images button and then select Browse local files. Navigate to `<MTC_AzureAILabs root/Datasets/AerialSmall/train/Barren`. Select all images
 
 2. To set the tag, enter text in the My Tags field and then use the + button. 
 
@@ -34,11 +35,6 @@ Each domain optimizes the classifier for specific types of images. In our lab, w
 ![Test](images/test2.PNG)
 
 ## Use SDK to programmatically train and evaluate models
-In this section of the lab we used Custom Vision Service web portal to execute the training workflow. It is also possible to script the workflow using Custom Vision Service SDK. Refer to the below link for more information:
-
-https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/python-tutorial
-
-
 
 
 

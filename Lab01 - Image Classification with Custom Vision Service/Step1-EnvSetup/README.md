@@ -12,9 +12,17 @@ https://customvision.ai
 
 ![Step 1](images/img1.PNG)
 
-3. Click on *New Project*.
+3. Click on *New Project* to add a new project
 
 ![Step 2](images/img2.PNG)
+
+4. Set the project's name and description.
+
+5. Create a new resource group for your project's resources.
+
+![Step 3][images/img3.PNG)
+
+
 
 ## Install Custom Vision SDK
 As indicated in the workshop prerequisities you should have Anaconda for Python 3 pre-installed. If you don't, know is the time.

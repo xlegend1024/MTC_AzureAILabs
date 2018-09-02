@@ -41,7 +41,7 @@ https://customvision.ai/projects
 
 
 ## Improve the model
-You can apply many strategies to improve performance of your model. Your instructor will elaborate on the most common techniques. 
+You can use many strategies to improve performance of your model. Your instructor will elaborate on the most common techniques. 
 
 In the following steps you will apply two approaches. First you will review your training data looking for potentially mislabeled instances. Second, you will add more samples of the class for which the classifier did not perform well. 
 

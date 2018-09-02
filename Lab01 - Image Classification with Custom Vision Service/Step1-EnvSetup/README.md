@@ -12,7 +12,9 @@ https://customvision.ai
 
 ![Step 1](images/img1.PNG)
 
-3. Click 
+3. Click on *New Project*.
+
+![Step 2](images/img2.PNG)
 
 ## Install Custom Vision SDK
 As indicated in the workshop prerequisities you should have Anaconda for Python 3 pre-installed. If you don't, know is the time.

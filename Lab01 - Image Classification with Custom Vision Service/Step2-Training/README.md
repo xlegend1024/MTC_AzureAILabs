@@ -35,9 +35,9 @@ https://customvision.ai/projects
 
 ## Test your model
 1. You can perform a quick test of the model on unseen data by clicking the **Quick Test** button located to the right of the **Train**. This action opens a window labeled **Quick Test**.
-2. In the **Quick Test** window, click in the Submit Image field and enter the URL of the image you want to use for your test. If you want to use a locally stored image instead, click the Browse local files button and select a local image file. The testing images for our lab can be found in `<MTC_AzureAILabs root>/Datasets/AerialSmall/test`
+2. In the **Quick Test** window click the Browse local files button and select a local image file. The testing images for our lab can be found in `<MTC_AzureAILabs root>/Datasets/AerialSmall/test`
 
-![TQuick est](images/img8.PNG)
+![Quick est](images/img8.PNG)
 
 
 ## Improve the model

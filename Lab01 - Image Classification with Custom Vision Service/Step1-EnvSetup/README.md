@@ -16,11 +16,11 @@ https://customvision.ai
 
 4. Configure a new resource group for your project's resources. 
 
-![Step 2][images/img2.PNG)
+![Step 2](images/img2.PNG)
 
 5. Configure the remaining parameters. Make sure to select *Image Classification*, *Multiclass*, and *General* domain options.
 
-![Step 3][images/img3.PNG)
+![Step 3](images/img3.PNG)
 
 
 

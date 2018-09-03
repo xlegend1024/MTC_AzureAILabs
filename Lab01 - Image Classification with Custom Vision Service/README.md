@@ -36,6 +36,6 @@ Developed | Cultivated | Barren
 - An access to Internet
 
 
-[Next Step](https://github.com/Microsoft/MTC_AzureAILabs/blob/master/Lab01%20-%20Image%20Classification%20with%20Custom%20Vision%20Service/Step1-EnvSetup/README.md)
+[Next Step](https://github.com/Microsoft/MTC_AzureAILabs/blob/master/Lab01%20-%20Image%20Classification%20with%20Custom%20Vision%20Service/Step1-SetupEnv/README.md)
 
 

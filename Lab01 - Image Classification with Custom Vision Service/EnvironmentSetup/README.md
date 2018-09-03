@@ -21,7 +21,9 @@ https://portal.azure.com
 
 3. Enter *Data Science Virtual Machine* in the search text box
 
-![Create DSVM](images/img15.PNG)
+![Create DSVM](images/img16.PNG)
+
+4. Select *Data Science Virtual Machine for Linux (Ubuntu)
 
 
 ## Create Custom Vision Service Project

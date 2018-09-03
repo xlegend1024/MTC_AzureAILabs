@@ -32,9 +32,11 @@ https://portal.azure.com
   - Use *D4s_V3* or similar for the VM type
   - Leave all other parameters at default values
   
-6. After your DSVM is ready configure the public DNS name
+6. We will use Jupyter Lab. After your DSVM is ready navigate to the below URL. 
 
-![Set DNS](images/img17.PNG)
+https://https://your-vm-ip:8000/user/your-username/lab.
+
+
 
   
 

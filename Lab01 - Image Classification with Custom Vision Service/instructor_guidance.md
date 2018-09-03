@@ -50,6 +50,17 @@ This lab targets developers who may not have an AI/ML background. If there are p
 - Remind the participants that the training workflow can be controlled through SDK in addition to GUI
 - Guide the students through the training steps
 
+**Step 3 - Use prediction endpoint**
+- Explain what a prediction endpoint is, including reviewing core parameters: Project ID, Prediction Key, Training Key
+- Review the key concepts behind Jupyter notebook
+- Walkthrough the `predict.ipynb` notebook explaining the code snippets
+
+**Step 4 - Export the model**
+- Explain why being able to export models is important
+- Review different export types supported by Custom Vision Service
+- Review key concepts behind Tensorflow
+- Review key concepts behind Docker
+- Guide the students through the export steps
 
 
 

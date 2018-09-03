@@ -9,9 +9,9 @@ Don't hesitate to ask questions !
 
 ## What will you practice during the lab?
 The lab consists of four consecutive steps:
-- In the first step you will learn how to provision Custom Vision Service cloud resources and local SDK
-- Next you will learn how to train, evaluate and fine tune a custom image classification model
-- In the third step, you will access your model through the REST web service - aka prediction point
+- In the first step you will learn how to provision Custom Vision Service.
+- Next you will learn how to train, evaluate and fine tune a custom image classification model.
+- In the third step, you will access your model through the REST web service - aka prediction point.
 - Finally you will learn how to export your trained model as a docker image so it can be deployed into an arbitrary inference environment
 
 

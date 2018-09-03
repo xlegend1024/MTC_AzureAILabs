@@ -32,12 +32,13 @@ https://portal.azure.com
   - Use *D4s_V3* or similar for the VM type
   - Leave all other parameters at default values
   
-6. We will use Jupyter Lab. After your DSVM is ready navigate to the below URL. 
+6. DSVM comes preconfigured with Jupyter Notebook and Jupyter Lab. After your DSVM is ready navigate to the below URL. Your browser may complain abouth an invalid certificate - ignore the warnings and proceed to log in using the credentials you created during the VM setup. 
 
 https://https://your-vm-ip:8000/user/your-username/lab.
 
+7. Your instructor will explain key elements of the Jupyter Lab interface and show you how to clone the lab's repo using the Jupyter Lab's terminal window. Make sure to clone the repos under the *Notebooks* folder in your home directory.
 
-
+![Clone repo](images/img18.PNG)
   
 
 

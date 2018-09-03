@@ -8,6 +8,12 @@ Before proceeding make sure to mark the current version of your model as the def
 
 
 1. Start jupyter lab from the root directory of the lab
+```
+cd <MTC_AzureAILabs root>
+jupyter lab
+```
+
 2. Follow the instructor
 
+[Next step]()
 

@@ -11,7 +11,7 @@ Although you can install all pre-requisities required to complete the second and
 
 ## Provision and configure Azure DSVM
 
-You will Azure Portal to provision Azure DSVM. 
+You will use Azure Portal to provision Azure DSVM. 
 
 1. Navigate and log in to Azure Portal
 

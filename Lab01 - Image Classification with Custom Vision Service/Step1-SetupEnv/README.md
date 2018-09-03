@@ -1,6 +1,6 @@
 # Environment setup
 
-In this step you will prepare the lab environment, including Custom Vision Service project and Custom Vision Service SDK. 
+In this step you will prepare the lab environment, including the Custom Vision Service project and Custom Vision Service SDK. 
 
 ## Create Custom Vision Service Project
 

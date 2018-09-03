@@ -11,6 +11,7 @@ This lab targets developers who may not have an AI/ML background. If there are p
 - AI/ML foundations - this is a more formal coverage of AI/ML topics and is recommended to support discussions with data scientists and professional AI developers
 
 
+## Hints for each step of the lab
 **Before you start the hands-on exercises**
 - Introduce key Machine Learning and Deep Learning concepts (Optional)
 - Introduce key computer vision tasks including:
@@ -26,7 +27,7 @@ This lab targets developers who may not have an AI/ML background. If there are p
 - Provide and overview of Azure AI services with the focus on Cognitive Services
 
 **Step 1 - Environment Set Up**
-- Briefly review selected Azure topics:  Azure Subscription, Azure Access, Azure Portal, Azure CLI, Azure SDK, Azure Resource Groups, Azure Storage
+- Briefly review Azure concepts that are relevant in the context of the lab. E.g.  Azure Subscription, Azure Access, Azure Portal, Azure CLI, Azure SDK, Azure Resource Groups, Azure Storage
 - Describe different ways of provisionig Custom Vision Service, including Azure Portal and Custom Vision Service web GUI
 - Review key components and capabilities of Custom Vision Service, including: 
   - types of models you can train

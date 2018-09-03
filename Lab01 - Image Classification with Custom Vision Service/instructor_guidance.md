@@ -48,6 +48,7 @@ This lab targets developers who may not have an AI/ML background. If there are p
 - Explain Precision and Recall measures used by Custom Vision Service for evaluation
 - Explain the concept of iteration in Custom Vision Service
 - Remind the participants that the training workflow can be controlled through SDK in addition to GUI
+- Guide the students through the training steps
 
 
 

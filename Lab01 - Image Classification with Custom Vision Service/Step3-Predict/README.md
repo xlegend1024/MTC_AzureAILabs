@@ -15,5 +15,5 @@ jupyter lab
 
 2. Follow the instructor
 
-[Next step]()
+[Next step](https://github.com/Microsoft/MTC_AzureAILabs/tree/master/Lab01%20-%20Image%20Classification%20with%20Custom%20Vision%20Service/Step4-Deploy)
 

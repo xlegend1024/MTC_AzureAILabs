@@ -30,9 +30,8 @@ Developed | Cultivated | Barren
 - High level understanding of cloud computing concepts
 
 ### Equipment
-- A valid Microsoft account or an Azure Active Directory OrgID ("work or school account"), so you can sign into customvision.ai 
-- Optional but recommended: An Azure subscription associated with your Microsoft Account or OrgID. If you don’t have an Azure subscription, you can create a free account before you begin.
-- A workstation with a current version of Anaconda for Python 3 installed. Windows 10 or MacOS recommended. 
+- A valid Microsoft account or an Azure Active Directory OrgID ("work or school account")
+- An Azure subscription associated with your Microsoft Account or OrgID. If you don’t have an Azure subscription, you can create a free account before you begin.
 - An access to Internet
 
 

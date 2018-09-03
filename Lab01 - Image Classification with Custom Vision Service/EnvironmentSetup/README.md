@@ -5,7 +5,24 @@ The lab consists of 3 exercises:
 2. Consuming a prediction endpoint
 3. Exporting a classifier as a docker image
 
-To complete the first exercise you will use Custom Vision Service web GUI. 
+To complete the first exercise you will use Custom Vision Service web GUI. In the second and third exercises you will primarly use Custom Vision Service Python SDK and Jupyter notebooks.
+
+Although you can install all pre-requisities required to complete the second and third exercises on your workstation, we will utilize Azure Data Science Virtual Machine (DSVM). DSVM comes with most of the pre-requisites pre-installed, which will make lab environment setup faster and easier.
+
+## Provision and configure Azure DSVM
+
+You will Azure Portal to provision Azure DSVM. 
+
+1. Navigate and log in to Azure Portal
+
+https://portal.azure.com
+
+2. Click on **Create a resource** in the top left corner
+
+3. Enter *Data Science Virtual Machine* in the search text box
+
+![Create DSVM](images/img15.PNG)
+
 
 ## Create Custom Vision Service Project
 

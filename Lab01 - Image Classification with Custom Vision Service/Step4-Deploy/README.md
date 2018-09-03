@@ -14,7 +14,7 @@ To convert the domain of an existing classifier, use the following steps:
 2. Select your project, and then select the Gear icon in the upper right of the page.
 3. In the **Domains** section, select a compact domain. **Save Changes** to save the changes.
 
-![Set compact domain](images/compact.PNG)
+![Set compact domain](images/img14.PNG)
 
 ## Retrain the model using a compact domain
 

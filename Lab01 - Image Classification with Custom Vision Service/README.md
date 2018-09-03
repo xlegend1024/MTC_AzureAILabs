@@ -7,9 +7,9 @@ Don't hesitate to ask questions !
 
 ## What will you practice during the lab?
 The lab consists of four consecutive steps:
-- In the first step you will learn how to provision Custom Vision Service cloud resources and local SDK
-- Next you will learn how to train, evaluate and fine tune a custom image classification model
-- In the third step, you will access your model through the REST web service - aka prediction point
+- In the first step you will learn how to provision Custom Vision Service.
+- Next you will learn how to train, evaluate and fine tune a custom image classification model.
+- In the third step, you will access your model through the REST web service - aka prediction point.
 - Finally you will learn how to export your trained model as a docker image so it can be deployed into an arbitrary inference environment
 
 
@@ -30,8 +30,8 @@ Developed | Cultivated | Barren
 - High level understanding of cloud computing concepts
 
 ### Equipment
-
-- An access to Microsoft Azure subscription.
+- A valid Microsoft account or an Azure Active Directory OrgID ("work or school account"), so you can sign into customvision.ai 
+- Optional but recommended: An Azure subscription associated with your Microsoft Account or OrgID. If you don’t have an Azure subscription, you can create a free account before you begin.
 - A workstation with a current version of Anaconda for Python 3 installed. Windows 10 or MacOS recommended. 
 - An access to Internet
 

@@ -63,6 +63,7 @@ Recall that the images tagged as *Developed* had the lowest **Precision** metric
 ![Second iteration](images/img11.PNG)
 
 
-Congratulations. You now have a pretty accurate custom classifier.
+Congratulations. You have developed an accurate custom image classifier.
 
+[Next step]()
 

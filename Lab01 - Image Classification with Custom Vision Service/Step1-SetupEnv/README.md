@@ -59,7 +59,7 @@ git clone https://github.com/Microsoft/MTC_AzureAILabs.git
 ## Verify that you can start and connect to Jupyter Lab 
 Start Jupyter Lab from the root folder of the lab 
 ```
-cd <MTC_AzureAILabs root>/Lab01 - Image Classification with Custom Vision Service
+cd <MTC_AzureAILabs root>
 jupyter lab
 ```
 Connect to Jupyter Lab
@@ -71,4 +71,4 @@ Press `Ctrl-C` to kill the Jupyter session.
 
 Congratulations. Your environment is ready.
 
-[Next Step](https://github.com/Microsoft/MTC_AzureAILabs/tree/master/Lab01%20-%20Image%20Classification%20with%20Custom%20Vision%20Service/Step2-Training)
+[Next Step](https://github.com/Microsoft/MTC_AzureAILabs/tree/master/Lab01%20-%20Image%20Classification%20with%20Custom%20Vision%20Service/Step2-Train)

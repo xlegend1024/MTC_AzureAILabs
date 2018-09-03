@@ -32,6 +32,11 @@ https://portal.azure.com
   - Use *D4s_V3* or similar for the VM type
   - Leave all other parameters at default values
   
+6. After your DSVM is ready configure the public DNS name
+
+![Set DNS](images/img17.PNG)
+
+  
 
 
 ## Create Custom Vision Service Project

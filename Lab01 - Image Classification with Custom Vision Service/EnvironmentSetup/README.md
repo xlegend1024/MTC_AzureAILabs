@@ -23,7 +23,15 @@ https://portal.azure.com
 
 ![Create DSVM](images/img16.PNG)
 
-4. Select *Data Science Virtual Machine for Linux (Ubuntu)
+4. Select *Data Science Virtual Machine for Linux (Ubuntu)*
+
+5. Configure DSVM:
+  - Use password rather than SSH key for authentication
+  - Use *Standard SSD*
+  - Create a new resource group
+  - Use *D4s_V3* or similar for the VM type
+  - Leave all other parameters at default values
+  
 
 
 ## Create Custom Vision Service Project

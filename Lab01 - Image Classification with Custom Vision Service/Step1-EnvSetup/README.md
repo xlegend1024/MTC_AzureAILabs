@@ -33,7 +33,7 @@ If you prefer to create the new environment follow this steps:
 On MacOS/Linux:
 
 ```
-conda create -n <YourEnvName>
+conda create -n <YourEnvName> anaconda
 source activate <YourEnvName>
 ```
 

@@ -39,5 +39,16 @@ This lab targets developers who may not have an AI/ML background. If there are p
   - prediction points
   - exporting trained models.
 - Provide a high level overview of what is happening behind the scenes: transfer learning
+- Guide the students through the provisioning steps
+
+**Step 2 - Training**
+- Deep dive into image classification task
+- Emphasize the importance of good quality training data
+- Review in detail load-train-evaluate-fine tune-repeat workflow of Custom Vision Service
+- Explain Precision and Recall measures used by Custom Vision Service for evaluation
+- Explain the concept of iteration in Custom Vision Service
+- Remind the participants that the training workflow can be controlled through SDK in addition to GUI
+
+
 
 

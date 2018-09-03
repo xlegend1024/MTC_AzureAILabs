@@ -1,6 +1,11 @@
 # Environment setup
 
-In this step you will prepare the lab environment, including the Custom Vision Service project and Custom Vision Service SDK. 
+The lab consists of 3 exercises:
+1. Training a custom image classifier
+2. Consuming a prediction endpoint
+3. Exporting a classifier as a docker image
+
+To complete the first exercise you will use Custom Vision Service web GUI. 
 
 ## Create Custom Vision Service Project
 

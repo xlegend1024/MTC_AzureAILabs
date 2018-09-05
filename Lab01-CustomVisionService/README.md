@@ -30,21 +30,17 @@ Developed | Cultivated | Barren
 
 ## Lab environment
 
-To complete the lab you will need the following pre-requisities:
+Although you can install all of the components required to complete the lab on your local workstation, we will use Azure Data Science Virtual Machine (DSVM). Azure DSVM comes with most of the components pre-installed, which will make the setup faster and easier.
+
+To configure the lab's environment and to complete the lab you will need the following:
 
 - A basic proficiency in Python programming
 - A valid Microsoft account or an Azure Active Directory OrgID ("work or school account")
 - An Azure subscription associated with your Microsoft Account or OrgID. If you don’t have an Azure subscription, you can create a trial subscription before you begin.
-- A workstation with the latest version of Anaconda for Python 3. Any operating system can be used. If you don't have a capable workstation, you can use Azure VM. For example, Azure Data Science Virtual Machine comes with most of the software pre-requisities pre-installed.
+- A workstation with the latest version of Chrome browser
 
 
-For the purpose of the lab, we highly recommend creating a dedicated `conda` environment to host the Custom Vision Service Python SDK. Although it is not required, it will keep your lab components sandboxed.
-
-```
-conda create -n <environment anme> python=3.6 anaconda
-```
-
-To configure the lab's environment:
+To configure the lab:
 
 1. Activate your conda environment
 

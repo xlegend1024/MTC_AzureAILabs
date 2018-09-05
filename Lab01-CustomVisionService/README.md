@@ -60,6 +60,16 @@ On Windows
 activate <environment name>
 ```
 
+2. Install Custom Vision Service SDK
+
+```
+pip install azure-cognitiveservices-vision-customvision
+```
+
+3. Clone or download and unzip the AzureAI labs repo into the preferred location on your file system
+
+```
+git clone 
 
 
 

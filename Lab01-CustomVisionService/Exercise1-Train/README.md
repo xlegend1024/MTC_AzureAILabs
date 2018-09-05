@@ -3,7 +3,7 @@ In this step you will train, evaluate, and fine tune a custom image classificati
 ## Prepare training data
 The dataset used in this exercise can be downloaded from:
 
-https://github.com/Microsoft/MTC_AzureAILabs/blob/master/Lab01-CustomVisionService/Dataset/AerialSmall.zip
+https://github.com/Microsoft/MTC_AzureAILabs/raw/master/Lab01-CustomVisionService/Dataset/AerialSmall.zip
 
 Download and unzip it to a local folder on your workstation.
 

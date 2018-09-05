@@ -7,13 +7,11 @@ Before proceeding make sure to mark the current version of your model as the def
 ![Mark iteration](images/img12.PNG)
 
 
-1. Start jupyter lab from the root directory of the lab
-```
-cd <MTC_AzureAILabs root>
-jupyter lab
-```
+1. Log in to Jupyter Lab on your DSVM
 
-2. Follow the instructor
+2. Navigate to `MTC_AzureAILabs/Lab01-CustomVisionService/Exercise2-Predict` and start `predict.ipynb`
+
+3. Follow the instructor
 
 [Next step](https://github.com/Microsoft/MTC_AzureAILabs/tree/master/Lab01%20-%20Image%20Classification%20with%20Custom%20Vision%20Service/Step4-Deploy)
 

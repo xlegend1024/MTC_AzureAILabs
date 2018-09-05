@@ -35,7 +35,6 @@ To complete the lab you will need the following pre-requisities:
 - A basic proficiency in Python programming
 - A valid Microsoft account or an Azure Active Directory OrgID ("work or school account")
 - An Azure subscription associated with your Microsoft Account or OrgID. If you don’t have an Azure subscription, you can create a trial subscription before you begin.
-- An access to Internet
 - A workstation with the latest version of Anaconda for Python 3. Any operating system can be used. If you don't have a capable workstation, you can use Azure VM. For example, Azure Data Science Virtual Machine comes with most of the software pre-requisities pre-installed.
 - Custom Vision Service Python SDK
 

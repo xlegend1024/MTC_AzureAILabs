@@ -13,5 +13,5 @@ Before proceeding make sure to mark the current version of your model as the def
 
 3. Follow the instructor
 
-[Next step](https://github.com/Microsoft/MTC_AzureAILabs/tree/master/Lab01%20-%20Image%20Classification%20with%20Custom%20Vision%20Service/Step4-Deploy)
+[Next step](https://github.com/Microsoft/MTC_AzureAILabs/tree/master/Lab01-CustomVisionService/Exercise3-Export)
 

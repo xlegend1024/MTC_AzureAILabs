@@ -94,7 +94,9 @@ https://portal.azure.com
 
 ![Custom vision 2](images/img23.PNG)
 
-5. After provisioning is completed, you will see two entries in your resource group: <YourServiceName> and <YourServiceName_Prediction> representing the training service and the prediction service respectively. Click on the training service.
+5. After provisioning is completed, you will see two entries in your resource group: 
+
+<YourServiceName> and <YourServiceName_Prediction> representing the training service and the prediction service respectively. Click on the training service.
   
   ![Keys](images\img24.PNG)
   

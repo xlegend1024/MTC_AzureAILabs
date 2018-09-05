@@ -1,15 +1,21 @@
 # Image Classification with Custom Vision Service
 In this lab you will train, evaluate, deploy, and use a custom image classification model using Microsoft Cognitive Services Custom Vision Service. 
 
-The lab consists of a set of instructor guided hands-on exercises. The most efficient way to go through the lab is to follow the instructor. In addition to walking you through the lab's exercises, she will explain key concepts and dive into technical details that may not be thoroughly documented in the lab's instructions. 
+The lab is designed to be instructor guided.  In addition to walking you through the lab's steps, the instructore will explain key concepts and as necessary deep dive into technical details. 
 
 Don't hesitate to ask questions !
 
 ## What will you practice during the lab?
-The lab consists of 3 consecutive excercises:
-- In the first exercise you will learn how to train, evaluate and fine tune a custom image classification model.
-- In the the second exercise, you will invoke your model through the REST web service - a prediction point.
-- Finally you will learn how to export your model as a docker image so it can be deployed into an arbitrary inference environment
+The lab consists of 2 part:
+- In the first part you will learn how to train, evaluate and fine tune, and invoke a custom image classification model.
+- In the the second part, you will export your model as a docker image so it can be deployed into an arbitrary inference environment
+
+Both parts are implemented as Jupyter notebooks and utilize Custom Vision Service Python SDK. Note, that there are other ways of working with Custom Vision Service, including Go and C# SDKs and Custom Vision Service GUI. In fact all these interfaces are front-ends to Custom Vision Service REST API that is thoroughly documented in the following links:
+
+https://southcentralus.dev.cognitive.microsoft.com/docs/services/d0e77c63c39c4259a298830c15188310/operations/39b14cb5f7f34977a6e6a290
+
+https://southcentralus.dev.cognitive.microsoft.com/docs/services/450e4ba4d72542e889d93fd7b8e960de/operations/5a6264bc40d86a0ef8b2c290
+
 
 
 

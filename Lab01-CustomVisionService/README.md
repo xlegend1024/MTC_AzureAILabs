@@ -68,38 +68,13 @@ https://portal.azure.com
 
 https://https://your-vm-ip:8000/user/your-username/lab.
 
-7. In Jupyter Lab open a terminal window and clone Azure AI Labs repo under the notebooks folder
+7. You should see Jupyter Lab web portal
+
+![Jupyter](images/img21.PNG)
+
+7. Open a terminal window and clone Azure AI Labs repo under the notebooks folder
 
 ![Clone](images/img20.PNG)
-
-To configure the lab:
-
-1. Activate your conda environment
-
-On Linux/MacOs
-
-```
-source activate <environment name>
-```
-
-On Windows
-
-```
-activate <environment name>
-```
-
-2. Install Custom Vision Service SDK
-
-```
-pip install azure-cognitiveservices-vision-customvision
-```
-
-3. Clone or download and unzip the AzureAI labs repo into the preferred location on your file system
-
-```
-git clone 
-
-
 
 
 

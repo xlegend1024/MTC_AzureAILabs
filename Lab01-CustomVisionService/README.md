@@ -68,7 +68,9 @@ https://portal.azure.com
 
 https://https://your-vm-ip:8000/user/your-username/lab.
 
-7. Your instructor will explain key elements of the Jupyter Lab interface and show you how to clone the lab's repo using the Jupyter Lab's terminal window. Make sure to clone the repos under the *Notebooks* folder in your home directory.
+7. In Jupyter Lab open a terminal window and clone Azure AI Labs repo under the notebooks folder
+
+![Clone](images/img20.PNG)
 
 To configure the lab:
 

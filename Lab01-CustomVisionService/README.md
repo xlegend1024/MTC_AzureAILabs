@@ -36,7 +36,7 @@ To complete the lab you will need the following pre-requisities:
 - A valid Microsoft account or an Azure Active Directory OrgID ("work or school account")
 - An Azure subscription associated with your Microsoft Account or OrgID. If you don’t have an Azure subscription, you can create a trial subscription before you begin.
 - A workstation with the latest version of Anaconda for Python 3. Any operating system can be used. If you don't have a capable workstation, you can use Azure VM. For example, Azure Data Science Virtual Machine comes with most of the software pre-requisities pre-installed.
-- Custom Vision Service Python SDK
+
 
 For the purpose of the lab, we highly recommend creating a dedicated `conda` environment to host the Custom Vision Service Python SDK. Although it is not required, it will keep your lab components sandboxed.
 

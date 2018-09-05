@@ -86,11 +86,11 @@ https://portal.azure.com
 
 2. Click on **Create a resource** in the top left corner
 
-3. Enter *Custom Vision* in the search text box
+3. Enter *Custom Vision* in the search text box and select *Custom Vision (preview)* from search results.
 
 ![Custom vision](images/img22.PNG)
 
-4. Fill the form. Make sure to select South Central Region and S0 plans for both training and prediction services
+4. Complete the service configuration form. Make sure to select South Central Region and S0 plans for both training and prediction services
 
 ![Custom vision 2](images/img23.PNG)
 

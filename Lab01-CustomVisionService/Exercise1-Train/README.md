@@ -2,7 +2,8 @@
 In this step you will train, evaluate, and fine tune a custom image classification model using Custom Vision Service Web GUI. It is also possible to script the modelling workflow using Custom Vision Service SDK. 
 ## Prepare training data
 The dataset used in this exercise can be downloaded from:
-https://github.com/Microsoft/MTC_AzureAILabs/Lab01%20-%20Image%20Classification%20with%20Custom%20Vision%20Service/Dataset/AerialSmall.zip
+
+https://github.com/Microsoft/MTC_AzureAILabs/Lab01-CustomVisionService/Dataset/AerialSmall.zip
 
 Download and unzip it to a local folder on your workstation.
 

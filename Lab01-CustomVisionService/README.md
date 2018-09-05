@@ -28,16 +28,42 @@ Developed | Cultivated | Barren
 ![Developed](/Datasets/AerialSmall/train/Developed/ortho_1-1_hn_s_ca025_2016_1_104257.png) | ![Barren](/Datasets/AerialSmall/train/Cultivated/ortho_1-1_hn_s_ca025_2016_1_9900.png) | ![Cultivated](/Datasets/AerialSmall/train/Barren/ortho_1-1_hn_s_ca025_2016_1_7359.png)
 
 
-## Prerequisites
+## Lab environment
 
-### Skills
-- Basic proficiency in Python and Jupyter
-- High level understanding of cloud computing concepts
+To complete the lab you will need the following pre-requisities:
 
-### Equipment
+- A basic proficiency in Python programming
 - A valid Microsoft account or an Azure Active Directory OrgID ("work or school account")
 - An Azure subscription associated with your Microsoft Account or OrgID. If you don’t have an Azure subscription, you can create a trial subscription before you begin.
 - An access to Internet
+- A workstation with the latest version of Anaconda for Python 3. Any operating system can be used. If you don't have a capable workstation, you can use Azure VM. For example, Azure Data Science Virtual Machine comes with most of the software pre-requisities pre-installed.
+- Custom Vision Service Python SDK
+
+For the purpose of the lab, we highly recommend creating a dedicated `conda` environment to host the Custom Vision Service Python SDK. Although it is not required, it will keep your lab components sandboxed.
+
+```
+conda create -n <environment anme> python=3.6 anaconda
+```
+
+To configure the lab's environment:
+
+1. Activate your conda environment
+
+On Linux/MacOs
+
+```
+source activate <environment name>
+```
+
+On Windows
+
+```
+activate <environment name>
+```
+
+
+
+
 
 
 [Next Step](https://github.com/Microsoft/MTC_AzureAILabs/tree/master/Lab01%20-%20Image%20Classification%20with%20Custom%20Vision%20Service/EnvironmentSetup)

@@ -10,7 +10,7 @@ The lab consists of 2 parts:
 - In the first part you will learn how to train, evaluate, fine tune, and invoke a custom image classification model.
 - In the the second part, you will export your model as a docker image so it can be deployed into an arbitrary inference environment
 
-Both parts are implemented as Jupyter notebooks and utilize Custom Vision Service Python SDK. Note, that there are other ways of working with Custom Vision Service, including Go and C# SDKs and Custom Vision Service GUI. In fact all these interfaces are front-ends to Custom Vision Service REST API that is thoroughly documented in the following links:
+In this lab we will use Custom Vision Service Python SDK and Jupyter notebooks. Note, that there are other ways of working with Custom Vision Service, including Go and C# SDKs and Custom Vision Service GUI. In fact all these interfaces are front-ends to Custom Vision Service REST API that is thoroughly documented in the following links:
 
 https://southcentralus.dev.cognitive.microsoft.com/docs/services/d0e77c63c39c4259a298830c15188310/operations/39b14cb5f7f34977a6e6a290
 

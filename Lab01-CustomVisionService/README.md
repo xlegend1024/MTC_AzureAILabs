@@ -76,7 +76,19 @@ https://https://your-vm-ip:8000/user/your-username/lab.
 
 ![Clone](images/img20.PNG)
 
+### Provision and configure Custom Vision Service
 
+In this step you will provision Custom Vision Service azure resources using Azure Portal:
+
+1. Navigate to Azure Portal
+
+https://portal.azure.com
+
+2. Click on **Create a resource** in the top left corner
+
+3. Enter *Custom Vision* in the search text box
+
+![Custom vision](images/img22.PNG)
 
 [Next Step](https://github.com/Microsoft/MTC_AzureAILabs/tree/master/Lab01%20-%20Image%20Classification%20with%20Custom%20Vision%20Service/EnvironmentSetup)
 

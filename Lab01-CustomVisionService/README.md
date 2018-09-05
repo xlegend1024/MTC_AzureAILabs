@@ -92,7 +92,7 @@ https://portal.azure.com
 
 4. Fill the form. Make sure to select South Central Region and S0 plans for both training and prediction services
 
-![Custom vision 2](images/img22.PNG)
+![Custom vision 2](images/img23.PNG)
 
 [Next Step](https://github.com/Microsoft/MTC_AzureAILabs/tree/master/Lab01%20-%20Image%20Classification%20with%20Custom%20Vision%20Service/EnvironmentSetup)
 

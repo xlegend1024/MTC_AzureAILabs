@@ -32,13 +32,43 @@ Developed | Cultivated | Barren
 
 Although you can install all of the components required to complete the lab on your local workstation, we will use Azure Data Science Virtual Machine (DSVM). Azure DSVM comes with most of the components pre-installed, which will make the setup faster and easier.
 
-To configure the lab's environment and to complete the lab you will need the following:
+To complete the lab you will need the following pre-requisities:
 
 - A basic proficiency in Python programming
 - A valid Microsoft account or an Azure Active Directory OrgID ("work or school account")
 - An Azure subscription associated with your Microsoft Account or OrgID. If you don’t have an Azure subscription, you can create a trial subscription before you begin.
 - A workstation with the latest version of Chrome browser
 
+To configure the lab's environment follow the below steps:
+
+### Provision and configure Azure DSVM
+
+You will use Azure Portal to provision Azure DSVM. 
+
+1. Navigate and log in to Azure Portal
+
+https://portal.azure.com
+
+2. Click on **Create a resource** in the top left corner
+
+3. Enter *Data Science Virtual Machine* in the search text box
+
+![Create DSVM](images/img16.PNG)
+
+4. Select *Data Science Virtual Machine for Linux (Ubuntu)*
+
+5. Configure DSVM:
+  - Use password rather than SSH key for authentication
+  - Use *Standard SSD*
+  - Create a new resource group
+  - Use *D4s_V3* or similar for the VM type
+  - Leave all other parameters at default values
+  
+6. DSVM comes preconfigured with Jupyter Notebook and Jupyter Lab. You will use Jupyter Lab. After your DSVM is ready, navigate to the below URL. Your browser may complain abouth an invalid certificate - ignore the warnings and proceed to log in using the credentials you created during the VM setup. 
+
+https://https://your-vm-ip:8000/user/your-username/lab.
+
+7. Your instructor will explain key elements of the Jupyter Lab interface and show you how to clone the lab's repo using the Jupyter Lab's terminal window. Make sure to clone the repos under the *Notebooks* folder in your home directory.
 
 To configure the lab:
 

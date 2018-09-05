@@ -7,7 +7,7 @@ The lab consists of 3 exercises:
 
 To complete the first exercise you will use Custom Vision Service web GUI. In the second and third exercises you will use Custom Vision Service Python SDK and Jupyter notebooks.
 
-Although you can install all pre-requisities required to complete the second and third exercises on your workstation, we will utilize Azure Data Science Virtual Machine (DSVM). DSVM comes with most of the pre-requisites pre-installed, which will make lab environment setup faster and easier.
+Although you can install all pre-requisities required to complete the lab on your workstation, we will utilize Azure Data Science Virtual Machine (DSVM). DSVM comes with most of the pre-requisites pre-installed, which will make lab environment setup faster and easier.
 
 ## Provision and configure Azure DSVM
 
@@ -43,6 +43,7 @@ https://https://your-vm-ip:8000/user/your-username/lab.
 
 
 ## Create Custom Vision Service Project
+You will now create a Custom Vision Service project. You can do it using Azure Portal, Custom Vision Service SDK, or Custom Vision Service web GUI. The following steps demonstrate how to provision the project using CVS web GUI.
 
 1. Navigate to Custom Vision Service web GUI at:
 
@@ -63,51 +64,6 @@ https://customvision.ai
 ![Step 3](images/img3.PNG)
 
 
-
-## Install Custom Vision Service SDK
-As indicated in the lab's prerequisities, you should have Anaconda for Python 3 pre-installed. If you don't, now is the time.
-You can install the SDK in the existing `conda` environment (including the default one) or if you prefer you can create a new `conda` environment. 
-
-If you prefer to create the new environment follow this steps:
-
-On MacOS/Linux:
-
-```
-conda create -n <YourEnvName> anaconda
-source activate <YourEnvName>
-```
-
-On Windows:
-
-```
-conda create -n <YourEnvName>
-activate <YourEnvName>
-```
-
-Ton install Custom Vision SDK
-
-```
-pip install azure-cognitiveservices-vision-customvision
-```
-
-## Clone the workshop's repo
-Clone the AzureAILabs repo in your preferred location
-```
-git clone https://github.com/Microsoft/MTC_AzureAILabs.git
-```
-
-## Verify that you can start and connect to Jupyter Lab 
-Start Jupyter Lab from the root folder of the lab 
-```
-cd <MTC_AzureAILabs root>
-jupyter lab
-```
-Connect to Jupyter Lab
-Verify that you can see this screen
-
-![Step 5](images/jupyter.JPG)
-
-Press `Ctrl-C` to kill the Jupyter session.
 
 Congratulations. Your environment is ready.
 

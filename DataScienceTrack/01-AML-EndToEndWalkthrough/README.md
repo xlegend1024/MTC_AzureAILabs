@@ -2,40 +2,59 @@
 
 The goal of the lab is to introduce key components and features of Azure Machine Learning service. During the lab you will go through the full Machine Learning workflow from data preparation, through model training, to model operationalization.
 
-The lab is not designed to explore all Azure ML features in detail. If you want to go deeper ask your instructor about Microsoft Technology Center Azure Machine Learning workshops.
+The lab is NOT designed to explore all Azure ML features in detail. If you want to go deeper ask your instructor about Microsoft Technology Center Azure Machine Learning workshops.
 
 ## Lab environment set up
 
-You can use Azure Data Science Virtual Machine or Azure Notebooks as your lab environment
+
+You can use your workstation or Azure Data Science Virtual Machine as your lab environment.
+
+### To set up your workstation
+
+1. Follow instructions below to install Anaconda for Python 3
+
+https://www.anaconda.com/
+
+2. Create a new conda environment
+
+```
+conda create -n <your env name> Python=3.6 anaconda
+
+# On Linux or MacOs
+source activate <your env name>
+
+# On Windows 
+activate <your env name>
+```
+
+3. Install Azure ML Python SDK
+```
+pip install --upgrade azureml-sdk[notebooks,automl]
+```
+
+4. Configure AML widgets for Jupyter
+```
+jupyter nbextension install --py --user azureml.train.widgets
+jupyter nbextension enable --py --user azureml.train.widgets
+```
+
+5. Install TensorFlow
+```
+pip install --upgrade tensorflow
+# pip install --upgrade tensorflow-gpu
+```
+
+6. Clone this repo
+```
+git clone <repo URL>
+```
+
+7. Start Jupyter and enjoy
+```
+jupyter notebook
+```
 
 
-### To set up Azure Notebooks
-
-1. Navigate to: https://notebooks.azure.com
-2. Login to Azure Notebooks using credentials bound to your Azure subscription
-3. Click on **Libraries**
-4. Click on **New Library**
-5. Enter **Library Name** - any name you want
-6. Enter **Library ID** - any ID you want
-7. Click on **Create**
-8. Click on **+** icon.
-9. Click on **From URL**
-10. In **File Url** paste the below link
-
-https://raw.githubusercontent.com/jakazmie/AIDays/master/DataScientistTrack/02-AML-EndToEndWalkthrough/00-intro.ipynb
-
-11. Click **Upload**
-12. Repeat for:
-
-https://raw.githubusercontent.com/jakazmie/AIDays/master/DataScientistTrack/02-AML-EndToEndWalkthrough/01-feature-engineering.ipynb
-
-https://raw.githubusercontent.com/jakazmie/AIDays/master/DataScientistTrack/02-AML-EndToEndWalkthrough/02-train.ipynb
-
-https://raw.githubusercontent.com/jakazmie/AIDays/master/DataScientistTrack/02-AML-EndToEndWalkthrough/03-deploy.ipynb
-
-Start `00-intro.ipynb` to begin the lab.
-
-**Important. Make sure to set the kernel of each notebook in the lab to *Python 3.6*.**
 
 
 ### To set up Azure Data Science Virtual Machine
@@ -56,7 +75,7 @@ ssh <your username>@<vm ip address>
 
 # Clone the labs in the notebooks folder
 cd notebooks
-git clone https://github.com/jakazmie/AIDays.git
+git clone <repo ULR>
 
 exit
 ```

@@ -75,7 +75,7 @@ ssh <your username>@<vm ip address>
 
 # Clone the labs in the notebooks folder
 cd notebooks
-git clone https://github.com/jakazmie/AIDays.git
+git clone <repo ULR>
 
 exit
 ```

@@ -1,6 +1,6 @@
-# Developer Track
+# AI Developer Labs
 
-This section of the repo contains hands-on labs demonstrating the best practices and partterns for developing intelligent applications, agents, and knowledge mining solutions using Cognitive Services, Bot Services, and Cognitive Search.
 
+In this section of the repo  you will find hands-on labs that demonstrate the best practices and patterns for developing intelligent apps, agents and knowledge mining solutions using Cognitive Services, Bot Services, and Cognitive Search.
 
 

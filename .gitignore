@@ -20,4 +20,5 @@ outputs/
 docker_export/
 test_images/
 DataScientistTrack/02-AML-EndToEndWalkthrough/script
+aml_config/
  

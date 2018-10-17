@@ -1,4 +1,3 @@
-# Developer Track
+# AI/ML Labs
 
-This section of the repo contains hands-on labs demonstrating the best practices and partterns for developing intelligent applications, agents, and knowledge mining solutions using Cognitive Services, Bot Services, and Cognitive Search.
-
+In this section of the repo we maintain hands-on labs that demonstrate how to develop and operationalize custom AI/ML models using Azure AI Machine Learning technologies: Azure Databricks and Azure Machine Learning service.

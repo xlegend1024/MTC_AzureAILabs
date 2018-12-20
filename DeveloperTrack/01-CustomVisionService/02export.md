@@ -38,5 +38,6 @@ You can use CVS web interface or REST API to export the model. To export the mod
 
 2. You can now select the format and download the export package to your workstation.
 
+---
 
- 
+[Next step](03predict.md)
